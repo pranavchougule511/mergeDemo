@@ -14,6 +14,9 @@ function App() {
           The sky is beautiful today....<br/>
           It had an amazing Gradient**  
         </p>
+        <p>
+          A sky full of stars
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
