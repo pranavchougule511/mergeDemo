@@ -12,7 +12,8 @@ function App() {
         </p>
         <p>
           The sky is beautiful today....<br/>
-          It had an amazing Gradient**  
+<br/>
+          It had an amazing Gradient**  Can't wait to see the moon tonight.      
         </p>
         <a
           className="App-link"
