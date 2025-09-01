@@ -23,6 +23,10 @@ function App() {
           Learn GIT with me...
         </a>
       </header>
+
+      <div className='main-container'>
+        <h2>This is title</h2>
+      </div>
     </div>
   );
 }
