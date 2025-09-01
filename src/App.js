@@ -25,7 +25,8 @@ function App() {
       </header>
 
       <div className='main-container'>
-        <h2>This is title</h2>
+        <h2>This is main title</h2>
+        <h2>This is sub title</h2>
       </div>
     </div>
   );
