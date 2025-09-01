@@ -11,7 +11,8 @@ function App() {
           And today is a wonderful day!
         </p>
         <p>
-          The sky is beautiful today....          
+          The sky is beautiful today....<br/>
+          It had an amazing Gradient**  
         </p>
         <a
           className="App-link"
