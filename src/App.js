@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello, Today is Tuesday <br/>
-          And today is a wonderful day!
+          And today is a wonderful Rainy day!
         </p>
         <a
           className="App-link"
