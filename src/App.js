@@ -10,6 +10,13 @@ function App() {
           Hello, Today is Tuesday <br/>
           And today is a wonderful day!
         </p>
+        <p>
+          The sky is beautiful today....<br/>
+          It had an amazing Gradient**  
+        </p>
+        <p>
+          A sky full of stars
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -19,6 +26,11 @@ function App() {
           Learn GIT with me...
         </a>
       </header>
+
+      <div className='main-container'>
+        <h2>This is main title</h2>
+        <h2>This is sub title</h2>
+      </div>
     </div>
   );
 }
