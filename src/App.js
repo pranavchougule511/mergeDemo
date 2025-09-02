@@ -11,7 +11,17 @@ function App() {
           And today is a wonderful day!
           TODAY IS A RAINY DAY
         </p>
+<<<<<<< HEAD
        
+=======
+        <p>
+          The sky is beautiful today....<br/>
+          It had an amazing Gradient**  
+        </p>
+        <p>
+          A sky full of stars
+        </p>
+>>>>>>> parent of feda4d3 (Add new line)
         <a
           className="App-link"
           href="https://reactjs.org"
