@@ -9,6 +9,7 @@ function App() {
         <p>
           Hello, Today is Tuesday <br/>
           And today is a wonderful day!
+          TODAY IS A RAINY DAY
         </p>
        
         <a
