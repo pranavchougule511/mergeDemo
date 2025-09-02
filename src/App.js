@@ -10,16 +10,7 @@ function App() {
           Hello, Today is Tuesday <br/>
           And today is a wonderful day!
         </p>
-        <p>
-          The sky is beautiful today....<br/>
-          It had an amazing Gradient**
-          Hey test
-
-        </p>
-        <p>
-          A sky full of stars
-          Hello testing
-        </p>
+       
         <a
           className="App-link"
           href="https://reactjs.org"
