@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn GIT with me...
+          Learn GIT with me...Hello
         </a>
       </header>
 
